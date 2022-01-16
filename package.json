@@ -1,6 +1,6 @@
 {
 	"name": "crystal-scte",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"api_version": "1.0.0",
 	"keywords": [
 		"Protocol"
@@ -16,5 +16,6 @@
 		"type": "git",
 		"url": "git+https://github.com/bitfocus/companion-module-crystal-scte.git"
 	},
-	"author": "Brad Rison <brad.rison@crystalcc.com>"
+	"author": "Brad Rison <brad.rison@crystalcc.com>",
+	"license": "MIT"
 }
