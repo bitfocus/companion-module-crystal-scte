@@ -17,5 +17,9 @@
 		"url": "git+https://github.com/bitfocus/companion-module-crystal-scte.git"
 	},
 	"author": "Brad Rison <brad.rison@crystalcc.com>",
-	"license": "MIT"
+	"license": "MIT",
+	"homepage": "https://github.com/bitfocus/companion-module-crystal-scte#readme",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-crystal-scte/issues"
+	}
 }
